@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[兰博的自留地]]></title>
+  <link href="chengwj.com/atom.xml" rel="self"/>
+  <link href="chengwj.com/"/>
+  <updated>2015-11-07T02:30:49+08:00</updated>
+  <id>chengwj.com/</id>
+  <author>
+    <name><![CDATA[兰博]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+</feed>
