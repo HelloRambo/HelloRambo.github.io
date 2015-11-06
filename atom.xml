@@ -4,7 +4,7 @@
   <title><![CDATA[兰博的自留地]]></title>
   <link href="chengwj.com/atom.xml" rel="self"/>
   <link href="chengwj.com/"/>
-  <updated>2015-11-07T03:03:47+08:00</updated>
+  <updated>2015-11-07T06:13:48+08:00</updated>
   <id>chengwj.com/</id>
   <author>
     <name><![CDATA[兰博]]></name>
@@ -12,5 +12,39 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[我的blog搭建流程]]></title>
+    <link href="chengwj.com/blog/2015/11/07/blog_1/"/>
+    <updated>2015-11-07T04:54:10+08:00</updated>
+    <id>chengwj.com/blog/2015/11/07/blog_1</id>
+    <content type="html"><![CDATA[<h1>1.Category List Aside</h1>
+
+<figure class='code'><figcaption><span></span></figcaption><div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
+<span class='line-number'>2</span>
+<span class='line-number'>3</span>
+<span class='line-number'>4</span>
+<span class='line-number'>5</span>
+<span class='line-number'>6</span>
+<span class='line-number'>7</span>
+<span class='line-number'>8</span>
+<span class='line-number'>9</span>
+<span class='line-number'>10</span>
+<span class='line-number'>11</span>
+<span class='line-number'>12</span>
+<span class='line-number'>13</span>
+<span class='line-number'>14</span>
+</pre></td><td class='code'><pre><code class='html'><span class='line'><span class="nt">&lt;section</span> <span class="na">class=</span><span class="s">&quot;panel panel-default&quot;</span><span class="nt">&gt;</span>
+</span><span class='line'>  <span class="nt">&lt;div</span> <span class="na">class=</span><span class="s">&quot;panel-heading&quot;</span><span class="nt">&gt;</span>
+</span><span class='line'>    <span class="nt">&lt;h3</span> <span class="na">class=</span><span class="s">&quot;panel-title&quot;</span><span class="nt">&gt;</span>Categories<span class="nt">&lt;/h3&gt;</span>
+</span><span class='line'>  <span class="nt">&lt;/div&gt;</span>
+</span><span class='line'>  <span class="nt">&lt;div</span> <span class="na">class=</span><span class="s">&quot;list-group&quot;</span><span class="nt">&gt;</span>
+</span><span class='line'>    
+</span><span class='line'>  <span class="nt">&lt;/div&gt;</span>
+</span><span class='line'><span class="nt">&lt;/section&gt;</span>r
+</span></code></pre></td></tr></table></div></figure>
+
+]]></content>
+  </entry>
   
 </feed>
